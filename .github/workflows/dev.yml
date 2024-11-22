@@ -25,4 +25,5 @@ jobs:
         with:
           build: npm run build
           start: npm run start
+          run: npm run test-component
           component: true #Should run Component testing
