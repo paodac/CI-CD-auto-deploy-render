@@ -20,8 +20,6 @@ This project implements a **CI/CD Pipeline** using **GitHub Actions** for a full
   **I want** to automatically deploy the application to Render when merging `develop` into `main`,  
   **so that** the application is updated with major releases.
 
-
-
 ## Branch Structure
 
 - `main`
@@ -30,15 +28,16 @@ This project implements a **CI/CD Pipeline** using **GitHub Actions** for a full
 
 ## Deployed App
 
-* [CI/CD AUTO DEPLOY APP](https://ci-cd-auto-deploy-render.onrender.com)
-
+- [CI/CD AUTO DEPLOY APP](https://ci-cd-auto-deploy-render.onrender.com)
 
 ## Screenshots
 
 ### Test Results
+
 ![Test Results.](./assets/ActionTests.png)
 
 ### Successful Deployment
+
 ![Deployed App](./assets/DeployedTests.png)
 
 ## Submission Requirements
